@@ -14,6 +14,7 @@
 
 #include <string>
 #include <iostream>
+#include <algorithm>
 #include <vector>
 #include <map>
 #include <random>
